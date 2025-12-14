@@ -62,7 +62,6 @@ Statistical-Analysis-of-Startup-Success-Factors/
 │
 ├── data/                    # Dataset (download from Kaggle)
 ├── scripts/                 # R analysis scripts
-├── outputs/figures/         # Visualizations
 ├── report/                  # Full project report (PDF)
 ├── analysis.R              # Main analysis script
 └── README.md
